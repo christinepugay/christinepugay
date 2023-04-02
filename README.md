@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm Christine!  
+
+Welcome to my GitHub where I showcase my projects as a Data Analyst!
+
+
 <!--
 **christinepugay/christinepugay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
