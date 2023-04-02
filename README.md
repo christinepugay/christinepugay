@@ -2,7 +2,7 @@
 
 I'm Christine!  
 
-Welcome to my GitHub where I showcase my projects as a Data Analyst!
+Welcome to my GitHub, where I showcase my projects as a Data Analyst!
 
 
 <!--
