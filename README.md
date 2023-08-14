@@ -6,7 +6,7 @@ Welcome to my GitHub, where I showcase my projects as a Data Analyst!
 
 Here are some projects to get you started:
 
-### [Employee Database Using SQL](https://github.com/christinepugay/employee_database/blob/main/README.md)
+### [Employee Database Using SQL](https://github.com/christinepugay/employee_database/tree/main)
 In this project, I stored and made an analysis of 1000 mock employees using SQL. 
 
 ### [Airbnb Price Prediction Machine Learning Project](https://github.com/christinepugay/Airbnb-Machine-Learning)
