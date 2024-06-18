@@ -5,6 +5,7 @@ I'm Christine!
 Welcome to my GitHub, where I showcase my projects as a Data Analyst.
 
 Here are some projects to get you started:
+### [Mock Customer Experience Ticket Analysis using SQL and Excel](https://github.com/christinepugay/customer_experience)
 
 ### [Charting Blood Pressure to Support Physician Diagnosis Using Excel](https://github.com/christinepugay/bloodpressure/tree/main)
 In this project, I created a medical charting system that records a patient's blood pressure (BP) results and simultaniously analyzes the results overtime.
